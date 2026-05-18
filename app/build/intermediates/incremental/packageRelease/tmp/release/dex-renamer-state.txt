@@ -1,0 +1,4 @@
+#Sun May 17 21:09:43 COT 2026
+base.0=C\:\\Users\\MI PC\\Downloads\\GyminfinityAndroid\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
