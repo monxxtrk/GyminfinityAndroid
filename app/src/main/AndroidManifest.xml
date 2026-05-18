@@ -6,8 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:label="Gyminfinity"
-        android:supportsRtl="true">
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Gyminfinity">
 
         <activity
             android:name=".MainActivity"
